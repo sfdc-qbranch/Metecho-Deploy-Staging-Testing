@@ -1,24 +1,67 @@
 {
-  "orgName": "Metecho-Deploy-Staging-Testing - Dev Org",
-  "edition": "Developer",
+  "orgName": "QBrix-1-xDO-OmniStudio-Base-Devorg",
+  "template": "0TT4S000000zmQz",
+  "instance": "USA4S",
+  "features": [
+    "AddCustomApps:30",
+    "AddCustomObjects:30",
+    "AddCustomRelationships:10",
+    "AddCustomTabs:30",
+    "AddInsightsQueryLimit:30",
+    "AnalyticsAdminPerms",
+    "AnalyticsAppEmbedded",
+    "API",
+    "AuthorApex",
+    "CaseClassification",
+    "Chatbot",
+    "CMSUnlimitedUse",
+    "Communities",
+    "ConnectedAppToolingAPI",
+    "CustomerCommunity",
+    "CustomerCommunityLogin",
+    "CustomerCommunityPlus",
+    "CustomerCommunityPlusLogin",
+    "DataMaskUser",
+    "DebugApex",
+    "DefaultWorkflowUser",
+    "DevelopmentWave",
+    "DISCLOSUREFRAMEWORK",
+    "DocGen",
+    "DocumentChecklist",
+    "EinsteinAnalyticsPlus",
+    "EinsteinBuilderFree",
+    "EinsteinRecommendationBuilder",
+    "EnablePRM",
+    "Entitlements",
+    "FieldAuditTrail",
+    "FlowSites",
+    "IndustriesActionPlan",
+    "InsightsPlatform",
+    "Interaction",
+    "Knowledge",
+    "LightningSalesConsole",
+    "LightningServiceConsole",
+    "LiveAgent",
+    "LiveMessage",
+    "Macros",
+    "MarketingUser",
+    "OmniStudioDesigner",
+    "Pardot",
+    "PartnerCommunity",
+    "PlatformConnect:5",
+    "ProcessBuilder",
+    "SalesforceContentUser",
+    "SalesforceIdentityForCommunities",
+    "SalesUser",
+    "ServiceCloud",
+    "SharedActivities",
+    "Workflow",
+    "WorkflowFlowActionFeature",
+    "WorkThanksPref"
+  ],
   "settings": {
-    "lightningExperienceSettings": {
-      "enableS1DesktopEnabled": true
-    },
-    "chatterSettings": {
-      "enableChatter": true
-    },
-    "userManagementSettings": {
-      "enableNewProfileUI": true
-    },
-    "securitySettings": {
-      "enableAdminLoginAsAnyUser": true,
-      "sessionSettings": {
-        "forceRelogin": false
-      }
-    },
-    "languageSettings": {
-      "enableTranslationWorkbench": true
+    "currencySettings": {
+      "enableMultiCurrency": true
     }
   }
 }
